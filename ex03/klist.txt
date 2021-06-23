@@ -1,2 +1,3 @@
 Jun 22 19:21:44 2021  Jun 23 05:21:44 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
 Jun 22 19:21:47 2021  Jun 23 05:21:44 2021  HTTP/student-storage.kzn.21-school.ru@KZN.21-SCHOOL.RU
+12
